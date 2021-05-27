@@ -9,7 +9,7 @@ Analysis done to help gain insights from the datasets to hep in the company's up
 **Programming Language Used<br>**
 Python<br>
 **Programming Environment**<br>
-Goole Collaboratory<br>
+Google Collaboratory<br>
 **Libraries Used**<br>
 Pandas<br>
 Numpy<br>
