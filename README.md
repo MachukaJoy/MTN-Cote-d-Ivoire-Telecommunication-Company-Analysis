@@ -14,7 +14,7 @@ A company's datasets collected from their database over 3 days of mobile usage o
 1 dataset containing geological locations of variuos cell IDs.<br>
 3 datasets of three days sample of users' usage.<br>
 
-**RESOURCES**
+**RESOURCES**<br>
 **Programming Language Used<br>**
 Python<br>
 **Programming Environment**<br>
