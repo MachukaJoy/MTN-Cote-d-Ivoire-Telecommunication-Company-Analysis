@@ -1,5 +1,5 @@
 # Week3_Resubmission
-**MTN Cote d'Ivoire**
+**MTN Cote d'Ivoire**<br>
 A company datasets collected over 3 days of mobile usage of<br>
 users in Ivory Coast<br>
 2 descriptive datasets of columns in our dataset.<br>
